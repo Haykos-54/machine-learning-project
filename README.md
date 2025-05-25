@@ -7,7 +7,7 @@ Bu projede, İtalyan deprem kataloğundaki (1985-2020) veriler analiz edilerek d
 
 Proje kapsamında aşağıdaki adımlar takip edilmiştir:
 * Veri Ön İşleme ve Keşifsel Veri Analizi (EDA)
-* Hedef Değişkenin (`MagnitudeClass`) Tanımlanması ve Oluşturulması (Veri sızıntısı tepsiti nedeniyle Magnitude olan hedef değişken cıkartıldı ve yeni hedef değişken oluşturuldu)
+* Hedef Değişkenin (`MagnitudeClass`) Tanımlanması ve Oluşturulması (Veri sızıntısı tepsiti nedeniyle Magnitude olan hedef değişken çıkartıldı ve yeni hedef değişken oluşturuldu)
 * Sınıfların Dengesizliğinin İncelenmesi ve Giderilmesi
 * Korelasyon Matrisi ile Özellikler Arası İlişkilerin İncelenmesi
 * Özellik Seçimi
