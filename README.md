@@ -66,5 +66,8 @@ Bu proje, bootcamp sonrası da geliştirilmeye açık bir çalışma olup, öğr
 
 # Linkler
 
+* Projenin kaggle platformu çalışmasına bu link üzerinden ulaşabilirsiniz.
+https://www.kaggle.com/code/efebakiaydn/supervised-4-machine-learning
+
 * **Kullanılan Veri Seti:** [Italian Earthquake Catalogue 1985-2020](https://www.kaggle.com/datasets/die9origephit/italian-earthquake-catalogue-1985-2020)
 * **Proje Notebook'u:** `Supervised.ipynb` (Bu repoda bulunmaktadır)
